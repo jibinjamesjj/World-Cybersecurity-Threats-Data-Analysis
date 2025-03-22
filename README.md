@@ -59,5 +59,6 @@ ________________________________________
 •	Predict Future Trends: Use regression models to predict attack frequency, financial loss trends, or resolution time.
 •	Risk Scoring Models: Develop a scoring system to assess potential risk by combining factors like attack type, vulnerability, and industry.
 Visuals: Line charts, decision trees, regression plots.
- Important Information: The image background ownership goes to the one created it. I have just used it as a wireframe for practice and learning purposes. I by no means am the owner of the design.
+
+Important Information: The image background ownership goes to the one created it. I have just used it as a wireframe for practice and learning purposes. I by no means am the owner of the design.
 
